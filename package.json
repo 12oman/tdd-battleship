@@ -1,0 +1,23 @@
+{
+  "name": "tdd-battleship",
+  "version": "1.0.0",
+  "description": "a helper repo to learn tdd with jest and javascript by building a battleship game.",
+  "main": "index.solutions.js",
+  "scripts": {
+    "test": "jest --watch --noStackTrace"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12oman/tdd-battleship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12oman/tdd-battleship/issues"
+  },
+  "homepage": "https://github.com/12oman/tdd-battleship#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
